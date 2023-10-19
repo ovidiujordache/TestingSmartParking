@@ -3,5 +3,9 @@ git remote
 git remote ..
 
 adding new content to file
+<<<<<<< HEAD
 
 local changed.
+=======
+remote changed
+>>>>>>> origin
